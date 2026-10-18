@@ -1,5 +1,5 @@
 {
-  "name": "devcontainer-astro-template",
+  "name": "astro-project-template",
   "type": "module",
   "version": "0.0.1",
   "scripts": {

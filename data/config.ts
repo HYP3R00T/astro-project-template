@@ -2,7 +2,7 @@ import placeholder from "@/assets/placeholder.png"
 import type { NavItem, SiteConfig, SocialLink } from "@/lib/types"
 
 export const SITE: SiteConfig = {
-  repo: "https://github.com/HYP3R00T/devcontainer-astro-template",
+  repo: "https://github.com/HYP3R00T/astro-project-template",
   title: "Astro Template",
   description:
     "A reusable Astro starter with stronger layout primitives, and a cleaner foundation for content-driven projects.",
